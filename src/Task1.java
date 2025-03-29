@@ -15,7 +15,7 @@ public class Task1 {
             if (min > arr[i]) {
                 min = arr[i];
             }
-            /**
+            /*
              * This section finds the smallest element inside the array.
              *
              * The algorithm takes the first element as the initial minimum,
